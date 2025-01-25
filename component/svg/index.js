@@ -2,8 +2,14 @@ import React from "react";
 
 export const EmailIcon = () => {
     return (
-        <svg className="w-4 h-4 text-blue-500" aria-hidden="true"
-             xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 16">
+        <svg
+            className="w-4 h-4 text-blue-500"
+             xmlns="http://www.w3.org/2000/svg"
+            fill="currentColor"
+            viewBox="0 0 20 16"
+            width="1em"
+            height="1em"
+        >
             <path
                 d="m10.036 8.278 9.258-7.79A1.979 1.979 0 0 0 18 0H2A1.987 1.987 0 0 0 .641.541l9.395 7.737Z"/>
             <path
